@@ -9,7 +9,7 @@ import javax.validation.constraints.NotNull;
 import java.util.Date;
 
 /**
- *
+ * 数据传输
  *
  * @author JackLee
  * @version 1.0
